@@ -38,25 +38,15 @@ Reelance provides two dedicated experiences within the same platform.
 Brands can:
 
 - Create and manage campaigns
-
 - Discover influencers and creators
-
 - Search and filter creators
-
 - View creator profiles
-
 - Review campaign applications
-
 - Accept or reject applications
-
 - Track campaign participants
-
 - Send collaboration requests
-
 - Monitor campaign performance
-
 - View dashboard analytics
-
 - Manage company information
 
 ### 🎥 For Influencers
@@ -64,21 +54,13 @@ Brands can:
 Creators can:
 
 - Discover available campaigns
-
 - Search and filter opportunities
-
 - View campaign details
-
 - Apply to campaigns
-
 - Track application status
-
 - Manage their creator profile
-
 - View recommended campaigns
-
 - Track profile performance
-
 - Participate in accepted campaigns
 
 ---
