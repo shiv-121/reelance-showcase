@@ -27,6 +27,114 @@ The project is being developed as a real full-stack application rather than a st
 
 ---
 
+
+
+## 🎯 What is Reelance?
+
+Reelance provides two dedicated experiences within the same platform.
+
+### 🏢 For Brands
+
+Brands can:
+
+- Create and manage campaigns
+
+- Discover influencers and creators
+
+- Search and filter creators
+
+- View creator profiles
+
+- Review campaign applications
+
+- Accept or reject applications
+
+- Track campaign participants
+
+- Send collaboration requests
+
+- Monitor campaign performance
+
+- View dashboard analytics
+
+- Manage company information
+
+### 🎥 For Influencers
+
+Creators can:
+
+- Discover available campaigns
+
+- Search and filter opportunities
+
+- View campaign details
+
+- Apply to campaigns
+
+- Track application status
+
+- Manage their creator profile
+
+- View recommended campaigns
+
+- Track profile performance
+
+- Participate in accepted campaigns
+
+---
+
+# 🖥️ Application Preview
+
+## 🏢 Brand Experience
+
+### Brand Dashboard
+
+A centralized workspace for campaign activity, applications and performance metrics.
+
+![Brand Dashboard](screenshots/brand-dashboard.png)
+
+### Campaign Management
+
+Brands can manage campaigns, track budgets, deadlines and applications from a single workspace.
+
+![Campaign Management](screenshots/brand-campaigns.png)
+
+### Creator Discovery
+
+Brands can search and filter creators based on niche, audience size, pricing and other profile attributes.
+
+![Creator Discovery](screenshots/brand-influencers.png)
+
+### Creator Profile
+
+Brands can view detailed creator information before initiating a collaboration.
+
+![Creator Profile](screenshots/influencer-profile.png)
+
+---
+
+# 🎥 Influencer Experience
+
+### Influencer Dashboard
+
+Creators get a dedicated workspace for applications, opportunities, profile completion and earnings.
+
+![Influencer Dashboard](screenshots/influencer-dashboard.png)
+
+### Browse Campaigns
+
+Creators can discover campaigns and filter opportunities based on their interests and audience.
+
+![Browse Campaigns](screenshots/influencer-campaigns.png)
+
+### My Applications
+
+Creators can track submitted applications and see whether campaigns are pending or accepted.
+
+![My Applications](screenshots/influencer-applications.png)
+
+---
+
 ## 🏗️ Architecture
 
 ```text
